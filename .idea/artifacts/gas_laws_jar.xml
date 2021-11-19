@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gas_laws:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gas_laws_jar</output-path>
+    <root id="archive" name="gas_laws.jar">
+      <element id="module-output" name="gas_laws" />
+    </root>
+  </artifact>
+</component>
